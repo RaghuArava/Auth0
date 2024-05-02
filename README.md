@@ -266,6 +266,7 @@ Replace <pod_name> with the actual name of the running pod.
 
 Note : I haven't included Kubernetes and API section Since Server doesn't have required CPU's
 Proof:
+
 [root@raghu app]# minikube start
 😄  minikube v1.33.0 on Redhat 8.9
 ✨  Automatically selected the docker driver. Other choices: none, ssh
